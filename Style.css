@@ -1,0 +1,23 @@
+.container {
+    background:dodgerblue;
+    border: 4px solid midnightblue;
+    width: 400px;
+    height: 300px;
+
+
+
+}
+.box {
+    background: paleturquoise;
+    font-weight:bold;
+    text-align: center;
+    border: 6pc solid maroon;
+    width: 80px;
+    height: 80px;
+}
+
+.container {
+    display:flex;
+    align-item: center;
+    justify-content: center;
+}
